@@ -1,6 +1,4 @@
 public class Hello {
-//testeste
-//�ӼӼӼ�
-//中文如何？
+//本机输入中文？
 
 }
