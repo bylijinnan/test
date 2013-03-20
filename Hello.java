@@ -4,6 +4,7 @@ public class Hello {
 //add sth
 //add in github.com
   public static void main(String[] args) {
-    System.out.println(12);kkk
+    System.out.println(12);
+    String s = "aa";
   }
 }
