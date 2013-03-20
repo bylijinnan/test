@@ -1,3 +1,3 @@
 public class Hello {
-  //clear in github
+  //clear in github.com
 }
